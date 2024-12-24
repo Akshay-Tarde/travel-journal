@@ -75,6 +75,7 @@ header img {
 }
 
 .subtext span {
+  text-transform: uppercase;
   letter-spacing: 2px;
   margin-right: 1em;
 }
